@@ -1,4 +1,3 @@
-
 import wixData from 'wix-data';
 
 $w.onReady(function () {
@@ -23,8 +22,7 @@ else{
 
 
 
-button7_click(clientX,q,npages);
-
+button7_click(event, q, npages);
 
 
 });
