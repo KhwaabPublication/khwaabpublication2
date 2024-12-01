@@ -9,5 +9,8 @@
     "postinstall": "wix sync-types",
     "dev": "wix dev",
     "lint": "eslint ."
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
   }
 }
